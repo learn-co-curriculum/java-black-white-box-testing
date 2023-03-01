@@ -96,7 +96,7 @@ asked to build a "bill splitter" calculator:
 
 - There will be a number of participants.
 - There will be a total for the bill.
-- You've been asked to write the method does the division.
+- You've been asked to write the method that performs the division.
 - You've been told you will always be dealing with integers for all parameters
   and for the return value.
 - You have not been given the "bill split" context, so you don't know how this
