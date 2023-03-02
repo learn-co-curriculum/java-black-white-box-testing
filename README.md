@@ -35,7 +35,7 @@ underlying implementation details of what we're testing.
 
 White box testing techniques are based on code coverage, 
 which measures how much source code is executed by the tests.
-While there are many code coverage techniques. Some basic techniques include:
+While there are many code coverage techniques, some basic techniques include:
 
 - **Function coverage:** The tests cause each function (method) to be executed at least once.
 - **Statement Coverage:** The tests cause all executable statements in a program to be executed at least once.
